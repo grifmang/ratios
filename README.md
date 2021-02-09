@@ -1,1 +1,1 @@
-"React site to display ratiod tweets." 
+Node backend for ratiod tweets site.
